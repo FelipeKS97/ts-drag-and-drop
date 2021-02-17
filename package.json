@@ -1,0 +1,19 @@
+{
+  "name": "ts-drag-and-drop",
+  "version": "1.0.0",
+  "description": "Typescript drag-and-drop app for learning purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server && tsc --watch"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Felipe Cavalcanti de Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
