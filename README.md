@@ -17,3 +17,7 @@ Obs: Make sure to have `tsc` package installed globally.
 Start the local server.
 
 ```npm start```
+
+To watch for changes in app.ts use the following:
+
+```npm run watch:ts```
